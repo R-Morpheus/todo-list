@@ -1,0 +1,10 @@
+input {
+  width: 40%;
+  height: 40px;
+  font-size: 1.3rem;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px ;
+  max-width: 600px;
+}
+/*# sourceMappingURL=myInput.css.map */
